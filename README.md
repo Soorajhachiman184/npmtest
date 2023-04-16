@@ -1,1 +1,1 @@
-npm deploy
+npm deploy for github
